@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# AI Models
+models/
+*.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Vector Databases
+chromadb/
+faiss_index/
+vectorstore/
+db/
+
+# Cache
+.cache/
+cache/
+tmp/
+temp/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
