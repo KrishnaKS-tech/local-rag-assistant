@@ -45,3 +45,15 @@ temp/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Documents
+data/documents/
+
+# Vector DB
+data/vector_db/
+
+# Database files
+*.sqlite3
+*.pickle
+
+data/chats/
